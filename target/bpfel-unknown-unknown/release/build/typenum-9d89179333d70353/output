@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/neil/Bureau/ftr_voter/target/bpfel-unknown-unknown/release/build/typenum-9d89179333d70353/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/neil/Bureau/ftr_voter/target/bpfel-unknown-unknown/release/build/typenum-9d89179333d70353/out/op.rs
